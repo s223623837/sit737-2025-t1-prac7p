@@ -13,7 +13,6 @@ This project demonstrates how to deploy a MongoDB database on a Kubernetes clust
 ├── mongo-pvc.yaml            # Defines a PersistentVolumeClaim for data persistence
 ├── mongo-deployment.yaml     # MongoDB Deployment specification
 ├── mongo-service.yaml        # Service to expose MongoDB to the host machine
-├── sample-data.json          # (Optional) Sample documents to use for testing
 └── README.md                 # This file
 
 ````
